@@ -1,14 +1,14 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2508/index.m3u8",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2505/index.m3u8",
     "id": 1,
     "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
     "movieName": "RENNES VS CHELSEA"
   },
 {
     "bannerCategoryId": "1",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2525/index.m3u8",
+    "fileUrl": "https://live-ak.vimeocdn.com/exp=1607779106~acl=%2Fe4a7c11e-1459-4265-b8f1-a72f06bea7ca%2F%2A~hmac=e14633cb95525ed6fd0dab72a609918aa38b6f30a690bb87c0548e",
     "id": 2,
     "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
     "movieName": "RENNES VS CHELSEA"
@@ -29,7 +29,7 @@
   },
   {
     "bannerCategoryId": "3",
-    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+    "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8",
     "id": 1,
     "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
     "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
