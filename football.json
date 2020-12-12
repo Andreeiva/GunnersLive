@@ -1,14 +1,28 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://videos.footballia.net/uploads/video/source_file/15295/2006-07_Man_Utd_-_Arsenal.mp4",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2508/index.m3u8",
     "id": 1,
+    "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
+    "movieName": "RENNES VS CHELSEA"
+  },
+{
+    "bannerCategoryId": "1",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2525/index.m3u8",
+    "id": 2,
+    "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
+    "movieName": "RENNES VS CHELSEA"
+  },
+{
+    "bannerCategoryId": "1",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2545/index.m3u8",
+    "id": 3,
     "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
     "movieName": "RENNES VS CHELSEA"
   },
   {
     "bannerCategoryId": "2",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6133/index.m3u8",
+    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6123/index.m3u8",
     "id": 1,
     "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
     "movieName": "BORRUSIA DORTMUD VS CLUB BRUGGE"
