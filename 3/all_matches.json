@@ -3,9 +3,9 @@
 		"categoryId": 1,
 		"categoryTitle": "Classic Matches",
 		"categoryItemList": [{
-				"fileUrl": "https://centurylink.br.cdn.booyah.live/hls/1000017/35440224.m3u8",
+				"fileUrl": "",
 				"id": 1,
-				"imageUrl": "https://www.liveonscore.com/wp-content/uploads/2017/05/Stoke-City-vs-Arsenal-Preview-and-Prediction-Live-stream-Premier-League-2017.jpg",
+				"imageUrl": "",
 				"movieName": "Burnley vs Crystal Palace"
 			}
     ]
