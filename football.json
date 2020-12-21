@@ -1,37 +1,37 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl":"https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8",
+    "fileUrl":"",
     "id": 1,
-    "imageUrl":"https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
+    "imageUrl":"",
     "movieName": "RENNES VS CHELSEA"
   },
 {
     "bannerCategoryId": "1",
-    "fileUrl": "https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8",
+    "fileUrl": "",
     "id": 2,
-    "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
+    "imageUrl": "",
     "movieName": "RENNES VS CHELSEA"
   },
 {
     "bannerCategoryId": "1",
     "fileUrl": "",
     "id": 3,
-    "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
+    "imageUrl": "",
     "movieName": "RENNES VS CHELSEA"
   },
   {
     "bannerCategoryId": "2",
     "fileUrl": "",
     "id": 1,
-    "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
+    "imageUrl": "",
     "movieName": "BORRUSIA DORTMUD VS CLUB BRUGGE"
   },
   {
     "bannerCategoryId": "3",
     "fileUrl":"",
     "id": 1,
-    "imageUrl": "https://footballwhispers.com/wp-content/uploads/2020/12/tottenham-arsenal.jpg",
+    "imageUrl": "",
     "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
   }
 ]  
